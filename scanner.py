@@ -1,3 +1,4 @@
+# DISCLAIMER: For educational use only. Only scan networks you own or have permission to test.
 import socket
 import threading
 from datetime import datetime
